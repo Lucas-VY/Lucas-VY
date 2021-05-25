@@ -9,8 +9,8 @@
 ```javascript
 const thai = {
   pronouns: "He" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, SQL],
-  tools: [React-JS,  Flask, SQLite],
+  code: [Javascript, Python, HTML, CSS, SQL],
+  tools: [React-JS, Flask, SQLite],
  challenge: "I'm doing the final project of the 4Geeks Academy Bootcamp"
 }
 ```
