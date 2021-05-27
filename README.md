@@ -11,7 +11,7 @@ const Lucas = {
   pronouns: "He" | "him",
   code: [Javascript, Python, HTML, CSS, SQL],
   tools: [React-JS, Flask, SQLite],
- challenge: "I'm doing the final project of the 4Geeks Academy Bootcamp"
+ challenge: "I'm starting my career as a Junior Developer"
 }
 ```
 
