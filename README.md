@@ -20,3 +20,5 @@ const Lucas = {
 ---
 
 ⭐⚡ From [@Lucas-VY](https://github.com/Lucas-VY)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-VY&show_icons=true&theme=radical)
