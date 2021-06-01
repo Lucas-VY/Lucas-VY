@@ -14,8 +14,7 @@ const Lucas = {
  challenge: "I'm starting my career as a Full-Stack developer"
 }
 ```
-
-<img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="200"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
