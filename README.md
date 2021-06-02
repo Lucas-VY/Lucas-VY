@@ -1,5 +1,5 @@
-<h2> Hi, I'm Lucas Varas! <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="230">
+![banner_readme](https://user-images.githubusercontent.com/75803984/120529257-4d14d680-c3aa-11eb-8be7-52bdc11f7396.png)
+
 <p><em>Junior Full-Stack Developer
 </em></p>
 
