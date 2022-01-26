@@ -10,7 +10,7 @@
 const Lucas = {
   pronouns: "He" | "him",
   code: [Javascript, Python, HTML, CSS, SQL],
-  tools: [React-JS, Flask, SQLite],
+  tools: [React-JS,Vue-Js, Flask, SQLite],
  challenge: "I'm starting my career as a Full-Stack developer"
 }
 ```
